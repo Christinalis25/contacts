@@ -1,4 +1,4 @@
-package ru.vladimir.baseadapter;
+package ru.chris.baseadapter;
 
 import android.content.Context;
 import android.graphics.Color;

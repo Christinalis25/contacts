@@ -1,4 +1,4 @@
-package ru.vladimir.baseadapter;
+package ru.chris.baseadapter;
 
 public enum Sex {
     M,
