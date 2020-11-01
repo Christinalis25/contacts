@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Olesya",
+    "phoneNumber" : "89501114665",
+    "sex" : "W"
+  },
+  {
+    "name": "Vova",
+    "phoneNumber" : "89027623234",
+    "sex" : "M"
+  },
+  {
+    "name": "Valya",
+    "phoneNumber" : "89526234561",
+    "sex" : "W"
+  },
+  {
+    "name": "Vika",
+    "phoneNumber" : "89025678902",
+    "sex" : "W"
+  },
+  {
+    "name": "ISU",
+    "phoneNumber" : "334567",
+    "sex" : "U"
+  },
+  {
+    "name": "Gosha",
+    "phoneNumber" : "89140987616",
+    "sex" : "M"
+  },
+  {
+    "name": "Lusya",
+    "phoneNumber" : "89025678192",
+    "sex" : "W"
+  }
+]

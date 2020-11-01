@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="sort">Choose</string>
+    <string name="name">By name</string>
+    <string name="phone">By phone number</string>
+    <string name="sex">By sex</string>
+</resources>
